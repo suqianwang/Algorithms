@@ -4,7 +4,7 @@ This repository contains five coding based mini-projects from which I implemente
 Each folder has a detailed description describe the project and the files that are needed.
 
 ## Sorting: Time Complexity
-In this project, I implemented a number of sorting algorithms such as Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, and Quick Sort. I compared the runtime of these different sorting algorithms on random and sorted arrays. The detailed report of this project can be found below.
+In this project, I implemented a number of sorting algorithms such as Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, and Quick Sort. I compared the runtime of these different sorting algorithms on random and sorted arrays. The detailed report of this project can be found in the corresponding folder.
 
 ## DFS & BFS: Maze Solving
 In this project, I implemented a Stack and a Queue class with the basic functions of a stack/queue data structure such as push, pop, resize, and check if it is empty or full. I also implemented the DFS and BFS algorithms using the stack and queue data structure to solve several different mazes (2D array) that were represented by adjacency lists.
